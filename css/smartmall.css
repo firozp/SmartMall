@@ -1,0 +1,187 @@
+@font-face {
+	font-family: Dekar_Light;
+	src: url(../fonts/Dekar_Light.woff); /* IE9 Compat Modes */
+	src: url(../fonts/Dekar_Light.eot?#iefix) format('embedded-opentype'), /* IE6-IE8 */
+       url(../fonts/Dekar_Light.woff) format('woff'), /* Pretty Modern Browsers */
+       url(../fonts/Dekar_Light.ttf)  format('truetype'), /* Safari, Android, iOS */
+       url(../fonts/Dekar_Light.svg#svgFontName) format('svg'); /* Legacy iOS */
+}
+
+header {
+	background-color: rgba(0,0,0,.2);
+}
+
+header .banner-image {
+	background-image: url("../images/abudhabi.jpg");
+	background-attachment: scroll;
+    background-color: #4f4f4f;
+    background-position: center center;
+    background-repeat: repeat;
+    background-size: cover;
+	height: 500px;
+	left: 0;
+    position: absolute;
+    right: 0;
+	left: 0;
+	z-index: 9;
+}
+
+header .banner-image .banner-overlay {
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	background-color: rgba(0,0,0,.2);
+}
+
+#header {
+	position: relative;
+	background-color: rgba(0, 0, 0, 0.4);
+	width: 100%;
+	z-index: 10;
+}
+
+header .logo {
+	padding: 165px 60px;
+	position: relative;
+	background-position: center center;
+	z-index: 10;
+	background-image: url("../images/Logo_trans2.png");
+	background-attachment: scroll;
+    background-repeat: no-repeat;
+}
+
+header .logo-background {
+	position: relative;
+	background-position: center center;
+	z-index: 10;
+	background-image: url("../images/trans_back.png");
+	background-attachment: scroll;
+    background-repeat: no-repeat;
+}
+
+header .logo h1{
+	color: #ffffff;
+	font-size: 72px;
+	font-style: normal;
+	height: auto;
+	letter-spacing: 3px;
+}
+
+header .logo .logo-subtitle {
+	font-style: italic;
+	color: #ffffff;
+	font-size: 17px;
+}
+
+#header .topnav {
+	text-align: center;
+}
+
+#header .topnav  a {
+    font-size: 13px;
+	color: rgba(255, 255, 255, 0.6);
+	text-decoration: none;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	font-weight: 400;
+	font-style: normal;
+	display: inline-block;
+	padding: 17.5px;
+
+}
+
+#logos .item{
+  margin: 3px;
+}
+#logos .item img{
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+main .content {
+    margin: 0 auto;
+    max-width: 840px;
+    z-index: 10;
+	box-shadow: 10px 10px 10px 7px #777;
+}
+
+main .content .wrapper {
+	background-color: #ffffff;
+    padding: 70px 92px;
+    position: relative;
+	z-index: 10;
+	text-align: center;
+}
+
+main .content .wrapper h1 {
+	font-size: 2.2em;
+    font-style: normal;
+    font-weight: bold;
+    letter-spacing: 1px;
+    line-height: 1.2em;
+    text-decoration: none;
+    text-transform: none;
+	margin-bottom: 1.2em;
+	font-family: Dekar_Light;
+}
+
+main .content .wrapper p {
+	font-family: Dekar_Light;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 600;
+    letter-spacing: 2px;
+    line-height: 1.6em;
+    margin: 0 0 1.6em;
+    text-decoration: none;
+
+}
+
+.content .events-content .eventlist-column-date {
+	float: left;
+	position: static;
+	width: 70px;
+	background: none repeat scroll 0 0 #e8ecec;
+	text-decoration: none;
+	color: #000000;
+}
+
+.content .events-content .eventlist-column-date .eventlist-startmonth{
+	font-family: Dekar_Light;
+	font-weight: 600;
+	font-size: 16px;
+    margin-top: 6px;
+}
+
+.content .events-content .eventlist-column-date .eventlist-startdate{
+	font-family: Dekar_Light;
+	font-weight: 600;
+	font-size: 28px;
+	margin: 6px 0;
+}
+
+.content .events-content .eventlist-column-date .eventlist-enddate:before{
+	font-family: Dekar_Light;
+	font-weight: 600;
+	content:"TO ";
+}
+
+.content .events-content .eventlist-column-date .eventlist-enddate{
+	font-family: Dekar_Light;
+	border-top: 1px solid #ddd;
+	font-weight: 600;
+    font-size: 14px;
+    margin: 6px 0;
+    padding-top: 6px;
+}
+
+.content .events-content .eventlist-column-info {
+	padding-left: 115px;
+}
+
+.display-none {
+	display: none;
+}

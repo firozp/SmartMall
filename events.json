@@ -1,0 +1,58 @@
+{
+    "events": [
+        {
+            "title": "Fete De La Lumiere",
+			"eventDate": {
+				"dayFrom": "Monday",
+				"dateFrom": 2,
+				"monthFrom": "FEB",
+				"yearFrom": 2015,
+				"timeFrom": "6:00pm",
+				"dayTo": "Monday",
+				"dateTo": 2,
+				"monthTo": "FEB",
+				"yearTo": 2015,
+				"timeTo":"9:00pm"
+			},
+            "url": "/events/2014/2/2/fte-de-la-lumire",
+            "escapedCtn": "EV_001",
+            "description": "Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Etiam porta sem malesuada magna mollis euismod. Maecenas faucibus mollis interdum. Maecenas faucibus mollis interdum."
+        },
+        {
+            "title": "Tour De France NYC",
+			"eventDate": {
+				"dayFrom": "Sunday",
+				"dateFrom": 5,
+				"monthFrom": "JUL",
+				"yearFrom": 2015,
+				"timeFrom": "1:30pm",
+				"dayTo": "Tuesday",
+				"dateTo": 7,
+				"monthTo": "JUL",
+				"yearTo": 2015,
+				"timeTo": "2:30pm"
+			},
+            "url": "/events/2013/4/29/tour-de-france-nyc",
+            "escapedCtn": "EV_002",
+            "description": "​An annual celebration of French culture and cuisine comes our way once again. We are happy to be part of the celebrations and will be offering daily specials."
+        },
+		{
+            "title": "Lundi de Pentecote",
+			"eventDate": {
+				"dayFrom": "Thursday",
+				"dateFrom": 16,
+				"monthFrom": "JUL",
+				"yearFrom": 2015,
+				"timeFrom": "5:30pm",
+				"dayTo": "Thursday",
+				"dateTo": 16,
+				"monthTo": "JUL",
+				"yearTo": 2015,
+				"timeTo": "10:00pm"
+			},
+            "url": "/events/2013/4/29/lundi-de-pentecte",
+            "escapedCtn": "EV_003",
+            "description": "Etiam porta sem malesuada magna mollis euismod. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+        }
+    ]
+}
