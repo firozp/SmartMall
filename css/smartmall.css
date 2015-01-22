@@ -106,6 +106,7 @@ main .content {
     max-width: 840px;
     z-index: 10;
 	box-shadow: 10px 10px 10px 7px #777;
+	position: relative;
 }
 
 main .content .wrapper {
@@ -193,6 +194,12 @@ footer {
 	position: relative;
 	font-family: Georgia,"Times New Roman",Times,serif;
     width: 100%;
+}
+
+.footer-overlay {
+	z-index: 0;
+	height: 38px;
+	background-color: #fff;
 }
 
 footer .footer-content{
