@@ -187,9 +187,11 @@ main .content .wrapper p {
 }
 
 footer {
-	background-color: rgba(0, 0, 0, 0.4);
+	background-color:#333;
+
 	color: #FFFFFF;
 	position: relative;
+	font-family: Georgia,"Times New Roman",Times,serif;
     width: 100%;
 }
 
@@ -220,7 +222,7 @@ footer .footer-one-third  h2{
 }
 
 footer .footer-one-third  li,footer .footer-one-third p{
-	font-size: 18px;
+	font-size: 13px;
     font-style: normal;
     font-weight: 400;
 	line-height:1.2;
