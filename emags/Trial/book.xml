@@ -1,0 +1,1245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book version="4.1.0" title="smartmallindia.com" plugins="navigationbar, keyboardnavigation, links, password, pdflinks, anchors, index, titles, search, gestures, draw, tuio, slideshow,javascript,swfaddress,print,thumbnails,bookmarks,select,musicplayers, toc, share, about, bookcase" pagewidth="1184" pageheight="1600" searchindex="files/search_index/en.txt" stiffskew="1" guipath="files/gui/" asulextension="xml" lang="en,jp,fr,de,ar" langpath="files/langs/" flagpath="files/flags/" pagesounds="false" pluginpath="files/plugins/" priorities="vid(20); snd(15); area(5); nav(5); txt(5); gal(30)" sndpath="files/snd/" dragspeed="0.3" password="" pwstart="0" zoommaxscale="2" zoomminscale="0.25" zoomsnap="1,3,5" slidestart="false" slidedelay="3" sliderepeat="false" toc="files/data/toc.xml" bookcase="files/data/bookcase.xml" download="" minimode="false" miniwidth="400" miniheight="300" layout="files/data/layout.xml" buttoncfg="files/data/buttoncfg.xml" about="files/data/about.xml" abc="chie">
+  <background>
+    <box name="" anchors="0,0,ph,pw"/>
+  </background>
+  <bookmarks/>
+  <chapter pagewidth="1184" pageheight="1600">
+    <page stiffskew="1">
+      <img width="1184" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+        <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+          <wincontents>
+            <![CDATA[]]>
+          </wincontents>
+        </action>
+        <effmenter Param1="" Param2=""/>
+        <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <src lang="en" scale="1.1">files/pages/en/high/page1.swf</src>
+        <src lang="en">files/pages/en/low/page1.swf</src>
+      </img>
+    </page>
+    <page stiffskew="1">
+      <img width="1184" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+        <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+          <wincontents>
+            <![CDATA[]]>
+          </wincontents>
+        </action>
+        <effmenter Param1="" Param2=""/>
+        <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <src lang="en" scale="1.1">files/pages/en/high/page2.swf</src>
+        <src lang="en">files/pages/en/low/page2.swf</src>
+      </img>
+    </page>
+  </chapter>
+  <chapter pagewidth="1184" pageheight="1600">
+    <page stiffskew="1">
+      <img width="1184" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+        <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+          <wincontents>
+            <![CDATA[]]>
+          </wincontents>
+        </action>
+        <effmenter Param1="" Param2=""/>
+        <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <src lang="en" scale="1.1">files/pages/en/high/page3.swf</src>
+        <src lang="en">files/pages/en/low/page3.swf</src>
+      </img>
+    </page>
+    <page stiffskew="1">
+      <img width="1184" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+        <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+          <wincontents>
+            <![CDATA[]]>
+          </wincontents>
+        </action>
+        <effmenter Param1="" Param2=""/>
+        <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <src lang="en" scale="1.1">files/pages/en/high/page4.swf</src>
+        <src lang="en">files/pages/en/low/page4.swf</src>
+      </img>
+    </page>
+    <page stiffskew="1">
+      <img width="1184" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+        <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+          <wincontents>
+            <![CDATA[]]>
+          </wincontents>
+        </action>
+        <effmenter Param1="" Param2=""/>
+        <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <src lang="en" scale="1.1">files/pages/en/high/page5.swf</src>
+        <src lang="en">files/pages/en/low/page5.swf</src>
+      </img>
+    </page>
+    <page stiffskew="1">
+      <img width="1184" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+        <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+          <wincontents>
+            <![CDATA[]]>
+          </wincontents>
+        </action>
+        <effmenter Param1="" Param2=""/>
+        <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <src lang="en" scale="1.1">files/pages/en/high/page6.swf</src>
+        <src lang="en">files/pages/en/low/page6.swf</src>
+      </img>
+    </page>
+    <page stiffskew="1">
+      <img width="1184" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+        <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+          <wincontents>
+            <![CDATA[]]>
+          </wincontents>
+        </action>
+        <effmenter Param1="" Param2=""/>
+        <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <src lang="en" scale="1.1">files/pages/en/high/page7.swf</src>
+        <src lang="en">files/pages/en/low/page7.swf</src>
+      </img>
+    </page>
+    <page stiffskew="1">
+      <img width="1184" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+        <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+          <wincontents>
+            <![CDATA[]]>
+          </wincontents>
+        </action>
+        <effmenter Param1="" Param2=""/>
+        <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <src lang="en" scale="1.1">files/pages/en/high/page8.swf</src>
+        <src lang="en">files/pages/en/low/page8.swf</src>
+      </img>
+    </page>
+    <page stiffskew="1">
+      <img width="1184" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+        <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+          <wincontents>
+            <![CDATA[]]>
+          </wincontents>
+        </action>
+        <effmenter Param1="" Param2=""/>
+        <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <src lang="en" scale="1.1">files/pages/en/high/page9.swf</src>
+        <src lang="en">files/pages/en/low/page9.swf</src>
+      </img>
+    </page>
+    <page stiffskew="1">
+      <img width="1184" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+        <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+          <wincontents>
+            <![CDATA[]]>
+          </wincontents>
+        </action>
+        <effmenter Param1="" Param2=""/>
+        <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <src lang="en" scale="1.1">files/pages/en/high/page10.swf</src>
+        <src lang="en">files/pages/en/low/page10.swf</src>
+      </img>
+    </page>
+    <page stiffskew="1">
+      <img width="1184" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+        <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+          <wincontents>
+            <![CDATA[]]>
+          </wincontents>
+        </action>
+        <effmenter Param1="" Param2=""/>
+        <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <src lang="en" scale="1.1">files/pages/en/high/page11.swf</src>
+        <src lang="en">files/pages/en/low/page11.swf</src>
+      </img>
+    </page>
+    <page stiffskew="1">
+      <img width="1184" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+        <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+          <wincontents>
+            <![CDATA[]]>
+          </wincontents>
+        </action>
+        <effmenter Param1="" Param2=""/>
+        <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <src lang="en" scale="1.1">files/pages/en/high/page12.swf</src>
+        <src lang="en">files/pages/en/low/page12.swf</src>
+      </img>
+    </page>
+    <page stiffskew="1">
+      <img width="1184" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+        <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+          <wincontents>
+            <![CDATA[]]>
+          </wincontents>
+        </action>
+        <effmenter Param1="" Param2=""/>
+        <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <src lang="en" scale="1.1">files/pages/en/high/page13.swf</src>
+        <src lang="en">files/pages/en/low/page13.swf</src>
+      </img>
+    </page>
+    <page stiffskew="1">
+      <img width="1184" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+        <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+          <wincontents>
+            <![CDATA[]]>
+          </wincontents>
+        </action>
+        <effmenter Param1="" Param2=""/>
+        <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <src lang="en" scale="1.1">files/pages/en/high/page14.swf</src>
+        <src lang="en">files/pages/en/low/page14.swf</src>
+      </img>
+    </page>
+    <page stiffskew="1">
+      <img width="1184" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+        <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+          <wincontents>
+            <![CDATA[]]>
+          </wincontents>
+        </action>
+        <effmenter Param1="" Param2=""/>
+        <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <src lang="en" scale="1.1">files/pages/en/high/page15.swf</src>
+        <src lang="en">files/pages/en/low/page15.swf</src>
+      </img>
+    </page>
+    <page stiffskew="1">
+      <img width="1184" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+        <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+          <wincontents>
+            <![CDATA[]]>
+          </wincontents>
+        </action>
+        <effmenter Param1="" Param2=""/>
+        <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <src lang="en" scale="1.1">files/pages/en/high/page16.swf</src>
+        <src lang="en">files/pages/en/low/page16.swf</src>
+      </img>
+    </page>
+    <page stiffskew="1">
+      <img width="1184" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+        <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+          <wincontents>
+            <![CDATA[]]>
+          </wincontents>
+        </action>
+        <effmenter Param1="" Param2=""/>
+        <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <src lang="en" scale="1.1">files/pages/en/high/page17.swf</src>
+        <src lang="en">files/pages/en/low/page17.swf</src>
+      </img>
+    </page>
+    <page stiffskew="1">
+      <img width="1184" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+        <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+          <wincontents>
+            <![CDATA[]]>
+          </wincontents>
+        </action>
+        <effmenter Param1="" Param2=""/>
+        <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <src lang="en" scale="1.1">files/pages/en/high/page18.swf</src>
+        <src lang="en">files/pages/en/low/page18.swf</src>
+      </img>
+    </page>
+    <page stiffskew="1">
+      <img width="1184" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+        <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+          <wincontents>
+            <![CDATA[]]>
+          </wincontents>
+        </action>
+        <effmenter Param1="" Param2=""/>
+        <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <src lang="en" scale="1.1">files/pages/en/high/page19.swf</src>
+        <src lang="en">files/pages/en/low/page19.swf</src>
+      </img>
+    </page>
+    <page stiffskew="1">
+      <img width="1184" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+        <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+          <wincontents>
+            <![CDATA[]]>
+          </wincontents>
+        </action>
+        <effmenter Param1="" Param2=""/>
+        <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <src lang="en" scale="1.1">files/pages/en/high/page20.swf</src>
+        <src lang="en">files/pages/en/low/page20.swf</src>
+      </img>
+    </page>
+    <page stiffskew="1">
+      <img width="1184" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+        <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+          <wincontents>
+            <![CDATA[]]>
+          </wincontents>
+        </action>
+        <effmenter Param1="" Param2=""/>
+        <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <src lang="en" scale="1.1">files/pages/en/high/page21.swf</src>
+        <src lang="en">files/pages/en/low/page21.swf</src>
+      </img>
+    </page>
+    <page stiffskew="1">
+      <img width="1184" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+        <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+          <wincontents>
+            <![CDATA[]]>
+          </wincontents>
+        </action>
+        <effmenter Param1="" Param2=""/>
+        <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <src lang="en" scale="1.1">files/pages/en/high/page22.swf</src>
+        <src lang="en">files/pages/en/low/page22.swf</src>
+      </img>
+    </page>
+    <page stiffskew="1">
+      <img width="1184" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+        <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+          <wincontents>
+            <![CDATA[]]>
+          </wincontents>
+        </action>
+        <effmenter Param1="" Param2=""/>
+        <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <src lang="en" scale="1.1">files/pages/en/high/page23.swf</src>
+        <src lang="en">files/pages/en/low/page23.swf</src>
+      </img>
+    </page>
+    <page stiffskew="1">
+      <img width="1184" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+        <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+          <wincontents>
+            <![CDATA[]]>
+          </wincontents>
+        </action>
+        <effmenter Param1="" Param2=""/>
+        <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <src lang="en" scale="1.1">files/pages/en/high/page24.swf</src>
+        <src lang="en">files/pages/en/low/page24.swf</src>
+      </img>
+    </page>
+    <page stiffskew="1">
+      <img width="1184" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+        <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+          <wincontents>
+            <![CDATA[]]>
+          </wincontents>
+        </action>
+        <effmenter Param1="" Param2=""/>
+        <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <src lang="en" scale="1.1">files/pages/en/high/page25.swf</src>
+        <src lang="en">files/pages/en/low/page25.swf</src>
+      </img>
+    </page>
+    <page stiffskew="1">
+      <img width="1184" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+        <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+          <wincontents>
+            <![CDATA[]]>
+          </wincontents>
+        </action>
+        <effmenter Param1="" Param2=""/>
+        <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <src lang="en" scale="1.1">files/pages/en/high/page26.swf</src>
+        <src lang="en">files/pages/en/low/page26.swf</src>
+      </img>
+    </page>
+    <page stiffskew="1">
+      <img width="1184" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+        <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+          <wincontents>
+            <![CDATA[]]>
+          </wincontents>
+        </action>
+        <effmenter Param1="" Param2=""/>
+        <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <src lang="en" scale="1.1">files/pages/en/high/page27.swf</src>
+        <src lang="en">files/pages/en/low/page27.swf</src>
+      </img>
+    </page>
+    <page stiffskew="1">
+      <img width="1184" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+        <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+          <wincontents>
+            <![CDATA[]]>
+          </wincontents>
+        </action>
+        <effmenter Param1="" Param2=""/>
+        <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <src lang="en" scale="1.1">files/pages/en/high/page28.swf</src>
+        <src lang="en">files/pages/en/low/page28.swf</src>
+      </img>
+    </page>
+    <page stiffskew="1">
+      <img width="1184" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+        <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+          <wincontents>
+            <![CDATA[]]>
+          </wincontents>
+        </action>
+        <effmenter Param1="" Param2=""/>
+        <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <src lang="en" scale="1.1">files/pages/en/high/page29.swf</src>
+        <src lang="en">files/pages/en/low/page29.swf</src>
+      </img>
+    </page>
+    <page stiffskew="1">
+      <img width="1184" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+        <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+          <wincontents>
+            <![CDATA[]]>
+          </wincontents>
+        </action>
+        <effmenter Param1="" Param2=""/>
+        <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <src lang="en" scale="1.1">files/pages/en/high/page30.swf</src>
+        <src lang="en">files/pages/en/low/page30.swf</src>
+      </img>
+    </page>
+    <page stiffskew="1">
+      <img width="1184" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+        <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+          <wincontents>
+            <![CDATA[]]>
+          </wincontents>
+        </action>
+        <effmenter Param1="" Param2=""/>
+        <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <src lang="en" scale="1.1">files/pages/en/high/page31.swf</src>
+        <src lang="en">files/pages/en/low/page31.swf</src>
+      </img>
+    </page>
+    <page stiffskew="1">
+      <img width="1184" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+        <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+          <wincontents>
+            <![CDATA[]]>
+          </wincontents>
+        </action>
+        <effmenter Param1="" Param2=""/>
+        <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <src lang="en" scale="1.1">files/pages/en/high/page32.swf</src>
+        <src lang="en">files/pages/en/low/page32.swf</src>
+      </img>
+    </page>
+    <page stiffskew="1">
+      <img width="1184" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+        <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+          <wincontents>
+            <![CDATA[]]>
+          </wincontents>
+        </action>
+        <effmenter Param1="" Param2=""/>
+        <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <src lang="en" scale="1.1">files/pages/en/high/page33.swf</src>
+        <src lang="en">files/pages/en/low/page33.swf</src>
+      </img>
+    </page>
+    <page stiffskew="1">
+      <img width="1184" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+        <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+          <wincontents>
+            <![CDATA[]]>
+          </wincontents>
+        </action>
+        <effmenter Param1="" Param2=""/>
+        <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <src lang="en" scale="1.1">files/pages/en/high/page34.swf</src>
+        <src lang="en">files/pages/en/low/page34.swf</src>
+      </img>
+    </page>
+    <page stiffskew="1">
+      <img width="1184" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+        <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+          <wincontents>
+            <![CDATA[]]>
+          </wincontents>
+        </action>
+        <effmenter Param1="" Param2=""/>
+        <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <src lang="en" scale="1.1">files/pages/en/high/page35.swf</src>
+        <src lang="en">files/pages/en/low/page35.swf</src>
+      </img>
+    </page>
+    <page stiffskew="1">
+      <img width="1184" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+        <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+          <wincontents>
+            <![CDATA[]]>
+          </wincontents>
+        </action>
+        <effmenter Param1="" Param2=""/>
+        <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <src lang="en" scale="1.1">files/pages/en/high/page36.swf</src>
+        <src lang="en">files/pages/en/low/page36.swf</src>
+      </img>
+    </page>
+    <page stiffskew="1">
+      <img width="1184" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+        <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+          <wincontents>
+            <![CDATA[]]>
+          </wincontents>
+        </action>
+        <effmenter Param1="" Param2=""/>
+        <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <src lang="en" scale="1.1">files/pages/en/high/page37.swf</src>
+        <src lang="en">files/pages/en/low/page37.swf</src>
+      </img>
+    </page>
+    <page stiffskew="1">
+      <img width="1184" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+        <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+          <wincontents>
+            <![CDATA[]]>
+          </wincontents>
+        </action>
+        <effmenter Param1="" Param2=""/>
+        <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <src lang="en" scale="1.1">files/pages/en/high/page38.swf</src>
+        <src lang="en">files/pages/en/low/page38.swf</src>
+      </img>
+    </page>
+    <page stiffskew="1">
+      <img width="1184" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+        <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+          <wincontents>
+            <![CDATA[]]>
+          </wincontents>
+        </action>
+        <effmenter Param1="" Param2=""/>
+        <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <src lang="en" scale="1.1">files/pages/en/high/page39.swf</src>
+        <src lang="en">files/pages/en/low/page39.swf</src>
+      </img>
+    </page>
+    <page stiffskew="1">
+      <img width="1184" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+        <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+          <wincontents>
+            <![CDATA[]]>
+          </wincontents>
+        </action>
+        <effmenter Param1="" Param2=""/>
+        <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <src lang="en" scale="1.1">files/pages/en/high/page40.swf</src>
+        <src lang="en">files/pages/en/low/page40.swf</src>
+      </img>
+    </page>
+    <page stiffskew="1">
+      <img width="1184" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+        <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+          <wincontents>
+            <![CDATA[]]>
+          </wincontents>
+        </action>
+        <effmenter Param1="" Param2=""/>
+        <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <src lang="en" scale="1.1">files/pages/en/high/page41.swf</src>
+        <src lang="en">files/pages/en/low/page41.swf</src>
+      </img>
+    </page>
+    <page stiffskew="1">
+      <img width="1184" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+        <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+          <wincontents>
+            <![CDATA[]]>
+          </wincontents>
+        </action>
+        <effmenter Param1="" Param2=""/>
+        <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <src lang="en" scale="1.1">files/pages/en/high/page42.swf</src>
+        <src lang="en">files/pages/en/low/page42.swf</src>
+      </img>
+    </page>
+    <page stiffskew="1">
+      <img width="1184" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+        <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+          <wincontents>
+            <![CDATA[]]>
+          </wincontents>
+        </action>
+        <effmenter Param1="" Param2=""/>
+        <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <src lang="en" scale="1.1">files/pages/en/high/page43.swf</src>
+        <src lang="en">files/pages/en/low/page43.swf</src>
+      </img>
+    </page>
+    <page stiffskew="1">
+      <img width="1184" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+        <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+          <wincontents>
+            <![CDATA[]]>
+          </wincontents>
+        </action>
+        <effmenter Param1="" Param2=""/>
+        <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <src lang="en" scale="1.1">files/pages/en/high/page44.swf</src>
+        <src lang="en">files/pages/en/low/page44.swf</src>
+      </img>
+    </page>
+    <page stiffskew="1">
+      <img width="1184" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+        <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+          <wincontents>
+            <![CDATA[]]>
+          </wincontents>
+        </action>
+        <effmenter Param1="" Param2=""/>
+        <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <src lang="en" scale="1.1">files/pages/en/high/page45.swf</src>
+        <src lang="en">files/pages/en/low/page45.swf</src>
+      </img>
+    </page>
+    <page stiffskew="1">
+      <img width="1184" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+        <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+          <wincontents>
+            <![CDATA[]]>
+          </wincontents>
+        </action>
+        <effmenter Param1="" Param2=""/>
+        <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <src lang="en" scale="1.1">files/pages/en/high/page46.swf</src>
+        <src lang="en">files/pages/en/low/page46.swf</src>
+      </img>
+    </page>
+    <page stiffskew="1">
+      <img width="1184" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+        <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+          <wincontents>
+            <![CDATA[]]>
+          </wincontents>
+        </action>
+        <effmenter Param1="" Param2=""/>
+        <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <src lang="en" scale="1.1">files/pages/en/high/page47.swf</src>
+        <src lang="en">files/pages/en/low/page47.swf</src>
+      </img>
+    </page>
+    <page stiffskew="1">
+      <img width="1184" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+        <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+          <wincontents>
+            <![CDATA[]]>
+          </wincontents>
+        </action>
+        <effmenter Param1="" Param2=""/>
+        <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <src lang="en" scale="1.1">files/pages/en/high/page48.swf</src>
+        <src lang="en">files/pages/en/low/page48.swf</src>
+      </img>
+    </page>
+    <page stiffskew="1">
+      <img width="1184" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+        <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+          <wincontents>
+            <![CDATA[]]>
+          </wincontents>
+        </action>
+        <effmenter Param1="" Param2=""/>
+        <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <src lang="en" scale="1.1">files/pages/en/high/page49.swf</src>
+        <src lang="en">files/pages/en/low/page49.swf</src>
+      </img>
+    </page>
+    <page stiffskew="1">
+      <img width="1184" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+        <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+          <wincontents>
+            <![CDATA[]]>
+          </wincontents>
+        </action>
+        <effmenter Param1="" Param2=""/>
+        <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <src lang="en" scale="1.1">files/pages/en/high/page50.swf</src>
+        <src lang="en">files/pages/en/low/page50.swf</src>
+      </img>
+    </page>
+    <page stiffskew="1">
+      <img width="1184" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+        <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+          <wincontents>
+            <![CDATA[]]>
+          </wincontents>
+        </action>
+        <effmenter Param1="" Param2=""/>
+        <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <src lang="en" scale="1.1">files/pages/en/high/page51.swf</src>
+        <src lang="en">files/pages/en/low/page51.swf</src>
+      </img>
+    </page>
+    <page stiffskew="1">
+      <img width="1184" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+        <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+          <wincontents>
+            <![CDATA[]]>
+          </wincontents>
+        </action>
+        <effmenter Param1="" Param2=""/>
+        <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <src lang="en" scale="1.1">files/pages/en/high/page52.swf</src>
+        <src lang="en">files/pages/en/low/page52.swf</src>
+      </img>
+    </page>
+    <page stiffskew="1">
+      <img width="1184" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+        <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+          <wincontents>
+            <![CDATA[]]>
+          </wincontents>
+        </action>
+        <effmenter Param1="" Param2=""/>
+        <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <src lang="en" scale="1.1">files/pages/en/high/page53.swf</src>
+        <src lang="en">files/pages/en/low/page53.swf</src>
+      </img>
+    </page>
+    <page stiffskew="1">
+      <img width="1184" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+        <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+          <wincontents>
+            <![CDATA[]]>
+          </wincontents>
+        </action>
+        <effmenter Param1="" Param2=""/>
+        <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <src lang="en" scale="1.1">files/pages/en/high/page54.swf</src>
+        <src lang="en">files/pages/en/low/page54.swf</src>
+      </img>
+    </page>
+    <page stiffskew="1">
+      <img width="1184" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+        <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+          <wincontents>
+            <![CDATA[]]>
+          </wincontents>
+        </action>
+        <effmenter Param1="" Param2=""/>
+        <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <src lang="en" scale="1.1">files/pages/en/high/page55.swf</src>
+        <src lang="en">files/pages/en/low/page55.swf</src>
+      </img>
+    </page>
+    <page stiffskew="1">
+      <img width="1184" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+        <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+          <wincontents>
+            <![CDATA[]]>
+          </wincontents>
+        </action>
+        <effmenter Param1="" Param2=""/>
+        <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <src lang="en" scale="1.1">files/pages/en/high/page56.swf</src>
+        <src lang="en">files/pages/en/low/page56.swf</src>
+      </img>
+    </page>
+    <page stiffskew="1">
+      <img width="1184" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+        <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+          <wincontents>
+            <![CDATA[]]>
+          </wincontents>
+        </action>
+        <effmenter Param1="" Param2=""/>
+        <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <src lang="en" scale="1.1">files/pages/en/high/page57.swf</src>
+        <src lang="en">files/pages/en/low/page57.swf</src>
+      </img>
+    </page>
+    <page stiffskew="1">
+      <img width="1184" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+        <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+          <wincontents>
+            <![CDATA[]]>
+          </wincontents>
+        </action>
+        <effmenter Param1="" Param2=""/>
+        <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <src lang="en" scale="1.1">files/pages/en/high/page58.swf</src>
+        <src lang="en">files/pages/en/low/page58.swf</src>
+      </img>
+    </page>
+    <page stiffskew="1">
+      <img width="1184" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+        <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+          <wincontents>
+            <![CDATA[]]>
+          </wincontents>
+        </action>
+        <effmenter Param1="" Param2=""/>
+        <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <src lang="en" scale="1.1">files/pages/en/high/page59.swf</src>
+        <src lang="en">files/pages/en/low/page59.swf</src>
+      </img>
+    </page>
+    <page stiffskew="1">
+      <img width="1184" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+        <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+          <wincontents>
+            <![CDATA[]]>
+          </wincontents>
+        </action>
+        <effmenter Param1="" Param2=""/>
+        <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <src lang="en" scale="1.1">files/pages/en/high/page60.swf</src>
+        <src lang="en">files/pages/en/low/page60.swf</src>
+      </img>
+    </page>
+    <page stiffskew="1">
+      <img width="1184" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+        <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+          <wincontents>
+            <![CDATA[]]>
+          </wincontents>
+        </action>
+        <effmenter Param1="" Param2=""/>
+        <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <src lang="en" scale="1.1">files/pages/en/high/page61.swf</src>
+        <src lang="en">files/pages/en/low/page61.swf</src>
+      </img>
+    </page>
+    <page stiffskew="1">
+      <img width="1184" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+        <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+          <wincontents>
+            <![CDATA[]]>
+          </wincontents>
+        </action>
+        <effmenter Param1="" Param2=""/>
+        <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <src lang="en" scale="1.1">files/pages/en/high/page62.swf</src>
+        <src lang="en">files/pages/en/low/page62.swf</src>
+      </img>
+    </page>
+    <page stiffskew="1">
+      <img width="1184" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+        <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+          <wincontents>
+            <![CDATA[]]>
+          </wincontents>
+        </action>
+        <effmenter Param1="" Param2=""/>
+        <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <src lang="en" scale="1.1">files/pages/en/high/page63.swf</src>
+        <src lang="en">files/pages/en/low/page63.swf</src>
+      </img>
+    </page>
+    <page stiffskew="1">
+      <img width="1184" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+        <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+          <wincontents>
+            <![CDATA[]]>
+          </wincontents>
+        </action>
+        <effmenter Param1="" Param2=""/>
+        <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <src lang="en" scale="1.1">files/pages/en/high/page64.swf</src>
+        <src lang="en">files/pages/en/low/page64.swf</src>
+      </img>
+    </page>
+    <page stiffskew="1">
+      <img width="1184" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+        <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+          <wincontents>
+            <![CDATA[]]>
+          </wincontents>
+        </action>
+        <effmenter Param1="" Param2=""/>
+        <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <src lang="en" scale="1.1">files/pages/en/high/page65.swf</src>
+        <src lang="en">files/pages/en/low/page65.swf</src>
+      </img>
+    </page>
+    <page stiffskew="1">
+      <img width="1184" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+        <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+          <wincontents>
+            <![CDATA[]]>
+          </wincontents>
+        </action>
+        <effmenter Param1="" Param2=""/>
+        <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <src lang="en" scale="1.1">files/pages/en/high/page66.swf</src>
+        <src lang="en">files/pages/en/low/page66.swf</src>
+      </img>
+    </page>
+    <page stiffskew="1">
+      <img width="1184" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+        <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+          <wincontents>
+            <![CDATA[]]>
+          </wincontents>
+        </action>
+        <effmenter Param1="" Param2=""/>
+        <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <src lang="en" scale="1.1">files/pages/en/high/page67.swf</src>
+        <src lang="en">files/pages/en/low/page67.swf</src>
+      </img>
+    </page>
+    <page stiffskew="1">
+      <img width="1184" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+        <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+          <wincontents>
+            <![CDATA[]]>
+          </wincontents>
+        </action>
+        <effmenter Param1="" Param2=""/>
+        <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <src lang="en" scale="1.1">files/pages/en/high/page68.swf</src>
+        <src lang="en">files/pages/en/low/page68.swf</src>
+      </img>
+    </page>
+    <page stiffskew="1">
+      <img width="1184" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+        <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+          <wincontents>
+            <![CDATA[]]>
+          </wincontents>
+        </action>
+        <effmenter Param1="" Param2=""/>
+        <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <src lang="en" scale="1.1">files/pages/en/high/page69.swf</src>
+        <src lang="en">files/pages/en/low/page69.swf</src>
+      </img>
+    </page>
+    <page stiffskew="1">
+      <img width="1184" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+        <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+          <wincontents>
+            <![CDATA[]]>
+          </wincontents>
+        </action>
+        <effmenter Param1="" Param2=""/>
+        <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <src lang="en" scale="1.1">files/pages/en/high/page70.swf</src>
+        <src lang="en">files/pages/en/low/page70.swf</src>
+      </img>
+    </page>
+    <page stiffskew="1">
+      <img width="1184" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+        <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+          <wincontents>
+            <![CDATA[]]>
+          </wincontents>
+        </action>
+        <effmenter Param1="" Param2=""/>
+        <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <src lang="en" scale="1.1">files/pages/en/high/page71.swf</src>
+        <src lang="en">files/pages/en/low/page71.swf</src>
+      </img>
+    </page>
+    <page stiffskew="1">
+      <img width="1184" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+        <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+          <wincontents>
+            <![CDATA[]]>
+          </wincontents>
+        </action>
+        <effmenter Param1="" Param2=""/>
+        <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <src lang="en" scale="1.1">files/pages/en/high/page72.swf</src>
+        <src lang="en">files/pages/en/low/page72.swf</src>
+      </img>
+    </page>
+    <page stiffskew="1">
+      <img width="1184" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+        <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+          <wincontents>
+            <![CDATA[]]>
+          </wincontents>
+        </action>
+        <effmenter Param1="" Param2=""/>
+        <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <src lang="en" scale="1.1">files/pages/en/high/page73.swf</src>
+        <src lang="en">files/pages/en/low/page73.swf</src>
+      </img>
+    </page>
+    <page stiffskew="1">
+      <img width="1184" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+        <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+          <wincontents>
+            <![CDATA[]]>
+          </wincontents>
+        </action>
+        <effmenter Param1="" Param2=""/>
+        <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <src lang="en" scale="1.1">files/pages/en/high/page74.swf</src>
+        <src lang="en">files/pages/en/low/page74.swf</src>
+      </img>
+    </page>
+    <page stiffskew="1">
+      <img width="1184" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+        <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+          <wincontents>
+            <![CDATA[]]>
+          </wincontents>
+        </action>
+        <effmenter Param1="" Param2=""/>
+        <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <src lang="en" scale="1.1">files/pages/en/high/page75.swf</src>
+        <src lang="en">files/pages/en/low/page75.swf</src>
+      </img>
+    </page>
+    <page stiffskew="1">
+      <img width="1184" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+        <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+          <wincontents>
+            <![CDATA[]]>
+          </wincontents>
+        </action>
+        <effmenter Param1="" Param2=""/>
+        <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <src lang="en" scale="1.1">files/pages/en/high/page76.swf</src>
+        <src lang="en">files/pages/en/low/page76.swf</src>
+      </img>
+    </page>
+    <page stiffskew="1">
+      <img width="1184" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+        <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+          <wincontents>
+            <![CDATA[]]>
+          </wincontents>
+        </action>
+        <effmenter Param1="" Param2=""/>
+        <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <src lang="en" scale="1.1">files/pages/en/high/page77.swf</src>
+        <src lang="en">files/pages/en/low/page77.swf</src>
+      </img>
+    </page>
+    <page stiffskew="1">
+      <img width="1184" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+        <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+          <wincontents>
+            <![CDATA[]]>
+          </wincontents>
+        </action>
+        <effmenter Param1="" Param2=""/>
+        <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <src lang="en" scale="1.1">files/pages/en/high/page78.swf</src>
+        <src lang="en">files/pages/en/low/page78.swf</src>
+      </img>
+    </page>
+    <page stiffskew="1">
+      <img width="1184" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+        <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+          <wincontents>
+            <![CDATA[]]>
+          </wincontents>
+        </action>
+        <effmenter Param1="" Param2=""/>
+        <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <src lang="en" scale="1.1">files/pages/en/high/page79.swf</src>
+        <src lang="en">files/pages/en/low/page79.swf</src>
+      </img>
+    </page>
+    <page stiffskew="1">
+      <img width="1184" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+        <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+          <wincontents>
+            <![CDATA[]]>
+          </wincontents>
+        </action>
+        <effmenter Param1="" Param2=""/>
+        <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <src lang="en" scale="1.1">files/pages/en/high/page80.swf</src>
+        <src lang="en">files/pages/en/low/page80.swf</src>
+      </img>
+    </page>
+    <page stiffskew="1">
+      <img width="1184" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+        <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+          <wincontents>
+            <![CDATA[]]>
+          </wincontents>
+        </action>
+        <effmenter Param1="" Param2=""/>
+        <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <src lang="en" scale="1.1">files/pages/en/high/page81.swf</src>
+        <src lang="en">files/pages/en/low/page81.swf</src>
+      </img>
+    </page>
+    <page stiffskew="1">
+      <img width="1184" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+        <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+          <wincontents>
+            <![CDATA[]]>
+          </wincontents>
+        </action>
+        <effmenter Param1="" Param2=""/>
+        <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <src lang="en" scale="1.1">files/pages/en/high/page82.swf</src>
+        <src lang="en">files/pages/en/low/page82.swf</src>
+      </img>
+    </page>
+    <page stiffskew="1">
+      <img width="1184" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+        <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+          <wincontents>
+            <![CDATA[]]>
+          </wincontents>
+        </action>
+        <effmenter Param1="" Param2=""/>
+        <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <src lang="en" scale="1.1">files/pages/en/high/page83.swf</src>
+        <src lang="en">files/pages/en/low/page83.swf</src>
+      </img>
+    </page>
+    <page stiffskew="1">
+      <img width="1184" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+        <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+          <wincontents>
+            <![CDATA[]]>
+          </wincontents>
+        </action>
+        <effmenter Param1="" Param2=""/>
+        <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <src lang="en" scale="1.1">files/pages/en/high/page84.swf</src>
+        <src lang="en">files/pages/en/low/page84.swf</src>
+      </img>
+    </page>
+    <page stiffskew="1">
+      <img width="1184" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+        <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+          <wincontents>
+            <![CDATA[]]>
+          </wincontents>
+        </action>
+        <effmenter Param1="" Param2=""/>
+        <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <src lang="en" scale="1.1">files/pages/en/high/page85.swf</src>
+        <src lang="en">files/pages/en/low/page85.swf</src>
+      </img>
+    </page>
+    <page stiffskew="1">
+      <img width="1184" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+        <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+          <wincontents>
+            <![CDATA[]]>
+          </wincontents>
+        </action>
+        <effmenter Param1="" Param2=""/>
+        <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <src lang="en" scale="1.1">files/pages/en/high/page86.swf</src>
+        <src lang="en">files/pages/en/low/page86.swf</src>
+      </img>
+    </page>
+  </chapter>
+  <chapter pagewidth="1184" pageheight="1600">
+    <page stiffskew="1">
+      <img width="1184" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+        <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+          <wincontents>
+            <![CDATA[]]>
+          </wincontents>
+        </action>
+        <effmenter Param1="" Param2=""/>
+        <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <src lang="en" scale="1.1">files/pages/en/high/page87.swf</src>
+        <src lang="en">files/pages/en/low/page87.swf</src>
+      </img>
+    </page>
+    <page stiffskew="1">
+      <img width="1184" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+        <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+          <wincontents>
+            <![CDATA[]]>
+          </wincontents>
+        </action>
+        <effmenter Param1="" Param2=""/>
+        <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+        <src lang="en" scale="1.1">files/pages/en/high/page88.swf</src>
+        <src lang="en">files/pages/en/low/page88.swf</src>
+      </img>
+    </page>
+  </chapter>
+</book>

@@ -1,7 +1,7 @@
 {
     "events": [
         {
-            "title": "Fete De La Lumiere",
+            "title": "Office inauguration",
 			"eventDate": {
 				"dayFrom": "Monday",
 				"dateFrom": 2,
@@ -19,7 +19,7 @@
             "description": "Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Etiam porta sem malesuada magna mollis euismod. Maecenas faucibus mollis interdum. Maecenas faucibus mollis interdum."
         },
         {
-            "title": "Tour De France NYC",
+            "title": "Magazine Publishing",
 			"eventDate": {
 				"dayFrom": "Sunday",
 				"dateFrom": 5,
@@ -34,10 +34,10 @@
 			},
             "url": "/events/2013/4/29/tour-de-france-nyc",
             "escapedCtn": "EV_002",
-            "description": "​An annual celebration of French culture and cuisine comes our way once again. We are happy to be part of the celebrations and will be offering daily specials."
+            "description": "An annual celebration of French culture and cuisine comes our way once again. We are happy to be part of the celebrations and will be offering daily specials."
         },
 		{
-            "title": "Lundi de Pentecote",
+            "title": "E-magazine inauguration",
 			"eventDate": {
 				"dayFrom": "Thursday",
 				"dateFrom": 16,
