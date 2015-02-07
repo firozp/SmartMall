@@ -4,55 +4,55 @@
             "title": "Office inauguration",
 			"eventDate": {
 				"dayFrom": "Monday",
-				"dateFrom": 2,
-				"monthFrom": "FEB",
-				"yearFrom": 2015,
+				"dateFrom": 24,
+				"monthFrom": "OCT",
+				"yearFrom": 2014,
 				"timeFrom": "6:00pm",
 				"dayTo": "Monday",
-				"dateTo": 2,
-				"monthTo": "FEB",
+				"dateTo": 24,
+				"monthTo": "OCT",
 				"yearTo": 2015,
 				"timeTo":"9:00pm"
 			},
             "url": "/events/2014/2/2/fte-de-la-lumire",
             "escapedCtn": "EV_001",
-            "description": "Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Etiam porta sem malesuada magna mollis euismod. Maecenas faucibus mollis interdum. Maecenas faucibus mollis interdum."
+            "description": "Smartmall's office at Chakolas Heights Chittethukara, Kakanadu was inaugurated by Tourism Minister of Kerala Shri A.P. Anil Kumar."
         },
         {
-            "title": "Magazine Publishing",
+            "title": "Magazine Cover launch",
 			"eventDate": {
 				"dayFrom": "Sunday",
-				"dateFrom": 5,
-				"monthFrom": "JUL",
+				"dateFrom": 6,
+				"monthFrom": "JAN",
 				"yearFrom": 2015,
 				"timeFrom": "1:30pm",
 				"dayTo": "Tuesday",
-				"dateTo": 7,
-				"monthTo": "JUL",
+				"dateTo": 6,
+				"monthTo": "JAN",
 				"yearTo": 2015,
 				"timeTo": "2:30pm"
 			},
             "url": "/events/2013/4/29/tour-de-france-nyc",
             "escapedCtn": "EV_002",
-            "description": "An annual celebration of French culture and cuisine comes our way once again. We are happy to be part of the celebrations and will be offering daily specials."
+            "description": "A cover launch of Smartmall's trial edition was done by chief minister of Kerala Shri Oommen Chandy."
         },
 		{
             "title": "E-magazine inauguration",
 			"eventDate": {
 				"dayFrom": "Thursday",
 				"dateFrom": 16,
-				"monthFrom": "JUL",
+				"monthFrom": "FEB",
 				"yearFrom": 2015,
 				"timeFrom": "5:30pm",
 				"dayTo": "Thursday",
 				"dateTo": 16,
-				"monthTo": "JUL",
+				"monthTo": "FEB",
 				"yearTo": 2015,
 				"timeTo": "10:00pm"
 			},
             "url": "/events/2013/4/29/lundi-de-pentecte",
             "escapedCtn": "EV_003",
-            "description": "Etiam porta sem malesuada magna mollis euismod. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+            "description": ""
         }
     ]
 }

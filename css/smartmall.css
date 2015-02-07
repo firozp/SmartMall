@@ -12,7 +12,7 @@ header {
 }
 
 header .banner-image {
-	background-image: url("../images/abudhabi.jpg");
+	background-image: url("../images/full.jpg");
 	background-attachment: scroll;
     background-color: #4f4f4f;
     background-position: center center;
@@ -103,14 +103,15 @@ header .logo .logo-subtitle {
 
 main .content {
     margin: 0 auto;
-    max-width: 840px;
+    padding-top:50px;
+    max-width: 740px;
     z-index: 10;
 	box-shadow: 10px 10px 10px 7px #777;
 }
 
 main .content .wrapper {
 	background-color: #ffffff;
-    padding: 70px 92px;
+    padding: 30px 30px;
     position: relative;
 	z-index: 10;
 	text-align: center;
@@ -129,6 +130,7 @@ main .content .wrapper h1 {
 }
 
 main .content .wrapper p {
+	text-align:justify;
 	font-family: Dekar_Light;
     font-size: 17px;
     font-style: normal;
