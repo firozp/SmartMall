@@ -188,6 +188,70 @@ main .content .wrapper p {
 	display: none;
 }
 
+.section-two-third {
+	width: 60%;
+	padding-bottom: 3rem;
+}
+
+.contactUS-content .section-two-third {
+	float: left;
+	font-family: Dekar_Light;
+	font-weight: 600;
+}
+
+.contactUS-content .section-two-third .formData {
+	padding: 0 10px;
+}
+	
+.contactUS-content .section-two-third .formData form{
+	border-right: 1px solid gray;
+}
+
+.contactUS-content .section-two-third>div{
+	font-size: 20px;
+	text-align: left;
+	padding-bottom: 30px;
+}
+.contactUS-content .section-two-third span {
+    float: left;
+    width: 21%;
+}
+
+.contactUS-content .section-two-third #name,
+.contactUS-content .section-two-third #email,
+.contactUS-content .section-two-third #contactNo{
+	width:60%;
+}
+
+.contactUS-content .section-two-third textarea{
+	width: 60%;
+	height: 90px;
+}
+
+.contactUS-content .section-two-third .button {
+    cursor: pointer;	
+    width: 20%;
+}
+
+.contactUS-content .section-two-third label{
+	display: block;
+	margin: 20px 0;
+}
+
+.section-two-third .textArea {
+	margin-bottom: 20px;
+}
+
+.section-two-third .textArea span{
+	padding-right: 20px;
+}
+
+.contactUS-content a{
+	text-decoration: none;
+	color: black;
+}
+
+
 footer {
 	background-color:#333;
 	margin-top: 38px;
